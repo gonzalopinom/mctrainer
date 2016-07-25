@@ -1,0 +1,2 @@
+# mctrainer
+simulador de entrenamiento
